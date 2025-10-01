@@ -22,5 +22,3 @@ contact information
 ==
 - QQ：3083512851
 - Web: dawalishi0821.top
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawalishi821)](https://github.com/anuraghazra/github-readme-stats)
