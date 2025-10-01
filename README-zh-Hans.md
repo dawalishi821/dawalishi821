@@ -8,6 +8,8 @@
 - 我想为全人类的解放作出贡献
 - 我喜欢读《共产党宣言》
 
+<img src="https://github-readme-stats.vercel.app/api?username=dawalishi0821&show_icons=true&theme=radical" align="right">
+
 我的电子设备
 ==
 - Redmi k60 16+512
@@ -18,5 +20,3 @@
 ==
 QQ：3083512851
 Web: dawalishi0821
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawalishi821)](https://github.com/anuraghazra/github-readme-stats)
