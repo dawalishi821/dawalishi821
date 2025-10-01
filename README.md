@@ -10,6 +10,8 @@
 - I want to contribute to the liberation of all mankind
 - I like reading ***Manifest der Kommunistischen Partei***
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawalishi821)](https://github.com/anuraghazra/github-readme-stats)
+
 My electronics
 ==
 - 📱Redmi k60 16+512
