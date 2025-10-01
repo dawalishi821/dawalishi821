@@ -10,8 +10,6 @@
 - I want to contribute to the liberation of all mankind
 - I like reading ***Manifest der Kommunistischen Partei***
 
-<img src="https://github.com/dawalishi821/dawalishi821/blob/main/%E5%88%97%E5%AE%81.jpg?raw=true" align="right">
-
 My electronics
 ==
 - 📱Redmi k60 16+512
