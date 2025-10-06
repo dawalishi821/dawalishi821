@@ -10,8 +10,6 @@
 - I want to contribute to the liberation of all mankind
 - I like reading ***Manifest der Kommunistischen Partei***
 
-<img src="https://github-readme-stats.vercel.app/api?username=dawalishi821&show_icons=true&theme=radical" align="right">
-
 My electronics
 ==
 - 📱Redmi k60 16+512
@@ -22,3 +20,5 @@ contact information
 ==
 - QQ：3083512851
 - Web: dawalishi0821.top
+
+<img src="https://github-readme-stats.vercel.app/api?username=dawalishi821&show_icons=true&theme=radical" align="lift">
