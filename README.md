@@ -12,8 +12,10 @@
 
 My electronics
 ==
-- 📱Redmi k60 16+512
+- 📱HONOR WIN RT 16+512
+- ⌚️HUAWEI GT5
 - 💻XiaoMi Pad7Pro 12+256
+- 💻APPLE MacBookAir M4 16+512
 - 💻AMD AI 9 365 32+1T
 
 contact information
