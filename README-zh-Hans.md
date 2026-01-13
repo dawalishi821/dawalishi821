@@ -12,9 +12,11 @@
 
 我的电子设备
 ==
-- Redmi k60 16+512
-- iXiaoMI Pad7Pro 12+256
-- AMD AI 9 365 32+1T
+- 📱荣耀 WIN RT 16+512
+- ⌚️华为 GT5
+- 💻小米 Pad7Pro 12+256
+- 💻苹果 MacBookAir M4 16+512
+- 💻AMD AI 9 365 32+1T
 
 联系方式
 ==
