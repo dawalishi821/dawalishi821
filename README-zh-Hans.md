@@ -16,7 +16,7 @@
 - ⌚️华为 GT5
 - 💻小米 Pad7Pro 12+256
 - 💻苹果 MacBookAir M4 16+512
-- 💻AMD AI 9 365 32+1T
+- 💻SurfacePro2 5+128
 
 联系方式
 ==
