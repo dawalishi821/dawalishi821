@@ -16,7 +16,7 @@ My electronics
 - ⌚️HUAWEI GT5
 - 💻XiaoMi Pad7Pro 12+256
 - 💻APPLE MacBookAir M4 16+512
-- 💻AMD AI 9 365 32+1T
+- 💻SurfacePro2 4+128
 
 contact information
 ==
