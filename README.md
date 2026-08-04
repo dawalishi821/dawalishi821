@@ -15,7 +15,7 @@ My electronics
 - 📱HONOR WIN RT 16+512
 - ⌚️HUAWEI GT5
 - 💻XiaoMi Pad7Pro 12+256
-- 💻APPLE MacBookAir M4 16+512
+- 💻APPLE 14inch MacBookPro M5Pro 64+1
 - 💻SurfacePro2 4+128
 
 contact information
