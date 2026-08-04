@@ -15,7 +15,7 @@
 - 📱荣耀 WIN RT 16+512
 - ⌚️华为 GT5
 - 💻小米 Pad7Pro 12+256
-- 💻苹果 MacBookAir M4 16+512
+- 💻苹果 14寸 MacBookPro M5Pro 64+1
 - 💻SurfacePro2 5+128
 
 联系方式
