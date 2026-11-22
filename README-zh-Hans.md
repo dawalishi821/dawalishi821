@@ -10,15 +10,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=dawalishi0821&show_icons=true&theme=radical" align="right">
 
-我的电子设备
-==
-- 📱荣耀 WIN RT 16+512
-- ⌚️华为 GT5
-- 💻小米 Pad7Pro 12+256
-- 💻苹果 14寸 MacBookPro M5Pro 64+1
-- 💻SurfacePro2 5+128
-
 联系方式
 ==
 QQ：3083512851
-Web: dawalishi0821
