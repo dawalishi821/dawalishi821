@@ -13,6 +13,5 @@
 contact information
 ==
 - QQ：3083512851
-- Web: dawalishi0821.top
 
 <img src="https://github-readme-stats.vercel.app/api?username=dawalishi821&show_icons=true&theme=radical" align="lift">
